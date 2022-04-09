@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import MyInput from './components/input/input';
 
 function App() {
   return (

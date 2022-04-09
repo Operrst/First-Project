@@ -18,3 +18,5 @@ function MyInput() {
   );
 }
 // input
+
+export default MyInput;
