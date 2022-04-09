@@ -5,7 +5,7 @@ function MyInput() {
   const [name, setName] = useState("");
 
   return (
-    <from>
+    <form>
       <label>
         Search
         <input
@@ -14,7 +14,7 @@ function MyInput() {
           onChange={(e) => setName(e.target.value)}
         />
       </label>
-    </from>
+    </form>
   );
 }
 // input
