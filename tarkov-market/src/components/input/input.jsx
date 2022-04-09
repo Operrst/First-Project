@@ -17,5 +17,4 @@ function MyInput() {
     </from>
   );
 }
-// asd
-// asd
+// input
